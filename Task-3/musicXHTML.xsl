@@ -10,9 +10,10 @@
                 <style type="text/css">
                     body {
                         background-attachment: fixed;
-                        background-image: url("./covers/turntable.jpeg")
+                        background-image: url("backgrounds/turntable.jpeg")
                     }
-                    table{
+
+                    table {
                         margin-left: auto;
                         margin-right: auto;
                     }
